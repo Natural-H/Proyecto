@@ -4,8 +4,8 @@ This is just a little scholar project.
 
 English version (Versión en inglés):
 
-This is a simple repository where I have made a scholar project, and just that, there is no problem if you want use these code.
-You are free to use these code for make a project or get inspired.
+This is a simple repository where I have made a scholar project, and just that, there is no problem if you want use this code.
+You are free to use this code to make a project or get inspired.
 
 Note that I am not expert, I am just a simple student and I am still learning, if you like you can leave some suggestions, I will take them in mind.
 
